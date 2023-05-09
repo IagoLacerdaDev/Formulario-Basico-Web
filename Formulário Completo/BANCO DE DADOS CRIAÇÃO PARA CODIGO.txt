@@ -1,0 +1,15 @@
+Criar database formulário
+Criar tabelas :
+
+Cadastro -> id Int (primary key e auto incremento),
+nome
+datanascimento
+estadocivil
+
+Endereço -> id (Chave estrangeira )
+cep
+rua
+cidade
+bairro
+complemento
+estado
